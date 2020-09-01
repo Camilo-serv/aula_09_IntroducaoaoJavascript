@@ -1,0 +1,26 @@
+{
+    "nome": "Aula 09: Introdução ao Javascript",
+    "academico":{
+        "curso": "Autoração Multimídia II",
+        "cursoIcone": "layout/icones/banner_henrique.svg",
+        "disciplina":"",
+        "responsavel": "Professor Wellington Sarmento / Professor Mauro Pequeno / Professor Henrique Sergio"
+    },
+     "topicos": [        
+        {
+            "nome": "Tópico 01: Principais características do Javascript",
+            "local": "topicos/01.html",
+            "audio": "audios/01.mp3",
+            "default": true
+        }
+    ],
+    "pdf": "pdf/AutoracaoMultimidiaII_aula_09.pdf",
+    "audio": "audios/AutoracaoMultimidiaII_aula_09.mp3",    
+    "tema":{
+      "primario": "purple-900",
+      "contraste": "orange"
+    },
+    "imported_styles":[
+        "custom.css"
+    ]
+}
